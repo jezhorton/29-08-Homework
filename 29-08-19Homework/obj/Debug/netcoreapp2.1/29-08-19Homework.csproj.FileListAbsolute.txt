@@ -1,0 +1,11 @@
+C:\Users\Jez Horton\source\repos\Week3\Day3\29-08-19Homework\29-08-19Homework\obj\Debug\netcoreapp2.1\29-08-19Homework.csprojAssemblyReference.cache
+C:\Users\Jez Horton\source\repos\Week3\Day3\29-08-19Homework\29-08-19Homework\obj\Debug\netcoreapp2.1\29-08-19Homework.csproj.CoreCompileInputs.cache
+C:\Users\Jez Horton\source\repos\Week3\Day3\29-08-19Homework\29-08-19Homework\obj\Debug\netcoreapp2.1\29-08-19Homework.AssemblyInfoInputs.cache
+C:\Users\Jez Horton\source\repos\Week3\Day3\29-08-19Homework\29-08-19Homework\obj\Debug\netcoreapp2.1\29-08-19Homework.AssemblyInfo.cs
+C:\Users\Jez Horton\source\repos\Week3\Day3\29-08-19Homework\29-08-19Homework\bin\Debug\netcoreapp2.1\29-08-19Homework.deps.json
+C:\Users\Jez Horton\source\repos\Week3\Day3\29-08-19Homework\29-08-19Homework\bin\Debug\netcoreapp2.1\29-08-19Homework.runtimeconfig.json
+C:\Users\Jez Horton\source\repos\Week3\Day3\29-08-19Homework\29-08-19Homework\bin\Debug\netcoreapp2.1\29-08-19Homework.runtimeconfig.dev.json
+C:\Users\Jez Horton\source\repos\Week3\Day3\29-08-19Homework\29-08-19Homework\bin\Debug\netcoreapp2.1\29-08-19Homework.dll
+C:\Users\Jez Horton\source\repos\Week3\Day3\29-08-19Homework\29-08-19Homework\bin\Debug\netcoreapp2.1\29-08-19Homework.pdb
+C:\Users\Jez Horton\source\repos\Week3\Day3\29-08-19Homework\29-08-19Homework\obj\Debug\netcoreapp2.1\29-08-19Homework.dll
+C:\Users\Jez Horton\source\repos\Week3\Day3\29-08-19Homework\29-08-19Homework\obj\Debug\netcoreapp2.1\29-08-19Homework.pdb
